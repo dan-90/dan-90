@@ -1,8 +1,8 @@
-#### Hi there thanks for being here ☺
+### Hi there thanks for being here ☺
 
-### I've just proudly finished a full-stack web developer 9-week bootcamp @https://www.lewagon.com/ and I'm looking forward to challenge myself in the fabulous world of coding! 👨‍💻 
+#### I've just proudly finished a full-stack web developer 9-week bootcamp @https://www.lewagon.com/ and I'm looking forward to challenge myself in the fabulous world of coding! 👨‍💻 
 
-### Following the projects I've created with my team during this bootcamp:
+#### Following the projects I've created with my team during this bootcamp:
 
 Groundbnb: https://groundbnb-tarumae.herokuapp.com/
 
