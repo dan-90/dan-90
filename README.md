@@ -4,6 +4,6 @@
 
 #### Following the projects I've created with my team during this bootcamp:
 
-Groundbnb: https://groundbnb-tarumae.herokuapp.com/
+Groundbnb: <a href="https://groundbnb-tarumae.herokuapp.com">Groundbnb</a>
 
 The Guild: https://www.theguild.fun/ 
