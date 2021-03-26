@@ -9,3 +9,5 @@
 <a href="https://groundbnb-tarumae.herokuapp.com">Groundbnb</a>
 
 <a href="https://www.theguild.fun">The Guild</a>
+
+Currently studying React and Redux! Exciting!
