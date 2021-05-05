@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniele and thanks for being here ☺
 
-#### I've just proudly finished a full-stack web developer 9-week bootcamp at <a href="https://www.lewagon.com">Le Wagon</a> and I'm looking forward to challenge myself in the fabulous world of coding! 👨‍💻 
+#### I've just proudly finished a full-stack web developer 9-week course at <a href="https://www.lewagon.com">Le Wagon</a> and I'm looking forward to challenge myself in the fabulous world of coding! 👨‍💻 
 
 ![](https://komarev.com/ghpvc/?username=dan-90&color=blue&style=plastic)
 
